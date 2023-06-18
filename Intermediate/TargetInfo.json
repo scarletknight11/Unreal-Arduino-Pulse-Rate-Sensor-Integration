@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ArduinoIntegrations",
+			"Path": "D:\\ArduinoIntegrations\\Source\\ArduinoIntegrations.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ArduinoIntegrationsEditor",
+			"Path": "D:\\ArduinoIntegrations\\Source\\ArduinoIntegrationsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
